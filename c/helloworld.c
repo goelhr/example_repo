@@ -1,3 +1,4 @@
+// It is an example
 #include <stdio.h>
 
 int main() {
